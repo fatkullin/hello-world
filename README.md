@@ -1,2 +1,2 @@
 # hello-world
-Test rep
+This is test repository for hello world project.
